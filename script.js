@@ -1,9 +1,5 @@
 const tasks = [
-    // "Practice JS examples",
-    // "HTML Notes",
-    // "CSS Implementation",
-    // "Javascript Notes",
-    // "React JS Notes"
+    
 ];
 
 function loadFromLocalStorage() {
